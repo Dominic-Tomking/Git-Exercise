@@ -1,3 +1,4 @@
 Alpha      80
 Tino        78
 fatmata     67
+Princess    98
